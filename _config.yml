@@ -42,18 +42,13 @@ github: KwangminPark
 email: kmpark@sejong.ac.kr
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Kwangmin Park:
+    name: Kwangmin Park
+    bio: A Person who loves my family and research
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: who4u78
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
