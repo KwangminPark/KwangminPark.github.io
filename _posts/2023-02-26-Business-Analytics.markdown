@@ -29,6 +29,8 @@ Why?
 
 Even if we accept the outcome, what business strategy could be developed and implemented? Nothing. Do we have to convert our male customers to females? Do we have to stop serving male customers and only serve female customers? Everything is nonsense. The main point is that business statistics should not aim for a 5% level of significance. Statistical analysis should be used in business analytics to develop a strategy. The gender significane is useless in most cases. Most academic institutions, however, ignored those points.
 
+---
+
 ## Summary
 
 The goal of business analytics is to use statistical analysis to develop a feasible strategy for action. NOT a 5% significance level.
