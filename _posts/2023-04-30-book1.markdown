@@ -22,7 +22,7 @@ Micro-web-book이라는 나만의 스타일로 가려고 합니다.
 
 접속 URL은 다음과 같습니다.
 
-![통알못을 위한 기초통계 1권](https://who4u78.github.io/book1/)
+[통알못을 위한 기초통계 1권](https://who4u78.github.io/book1/)
 
 이제 시작이니 더 앞으로 나가보도록 하지요!!!
 
