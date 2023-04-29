@@ -3,9 +3,10 @@ title: "통알못을 위한 기초통계 1권"
 layout: post
 date: 2023-04-30 12:10
 tag: statistics
+image:
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false 
 description: "My fitst book"
 category: project
 author: Kwangmin Park
