@@ -1,0 +1,29 @@
+---
+title: "통알못을 위한 기초통계 1권"
+layout: post
+date: 2023-04-30 12:10
+tag: statistics
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "My fitst book"
+category: project
+author: Kwangmin Park
+externalLink: false
+---
+
+지난 수년간 다양한 고민과 시도 끝에 드디어 첫 번째 책이 나왔습니다. 유투브에 컨텐츠를 올린지 오래 되었는데, 그간 많은 일이 있기도 했고 바쁘기도 했고 힘들기도 해서 책이 너무 늦어진 감이 있긴 하지만 이제 시작합니다. 
+
+Micro-web-book이라는 나만의 스타일로 가려고 합니다.
+
+너무 많은 내용을 한 번에 책으로 쓰기엔 시간도 부족하고 힘들어서 쪼개서 내려고 합니다. 종이 책으로 출판을 고려해 보기도 했고 제안도 있었지만 그다지 매력적이지도 않고 제 나름의 철학이 배워서 남주자이기 때문에 이렇게 무료로 배포합니다. 
+
+물론 저작권은 모두 등록되어 있으니 상업적 목적으로 혹은 공개된 미디어에 무단 배포하는 것은 저작권에 문제가 됩니다.
+
+접속 URL은 다음과 같습니다.
+
+![통알못을 위한 기초통계 1권](who4u78.github.io/book1)
+
+이제 시작이니 더 앞으로 나가보도록 하지요!!!
+
+Go!!!
