@@ -2,7 +2,8 @@
 title: "통알못을 위한 기초통계 1권"
 layout: post
 date: 2023-04-30 12:10
-tag: statistics
+tag: 
+- statistics
 image:
 headerImage: false
 projects: true
