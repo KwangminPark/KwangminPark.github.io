@@ -4,8 +4,9 @@ layout: post
 date: 2023-04-30 12:10
 tag: 
 - statistics
-image:
-headerImage: false
+- book
+image: https://who4u78.github.io/book1/cover.png
+headerImage: true
 projects: true
 hidden: false 
 description: "My fitst book"
