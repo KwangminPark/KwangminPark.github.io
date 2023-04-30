@@ -2,14 +2,14 @@
 title: "My first book has been published!!!"
 layout: post
 date: 2023-04-30 12:00
-tag: 
+image: 
+headerImage: false
+tag:
 - statistics
 - book
-image: https://who4u78.github.io/book1/cover.png
-headerImage: false
-description: "My fitst book"
 category: blog
 author: Kwangmin Park
+description: I published my first book
 ---
 
 지난 수년간 다양한 고민과 시도 끝에 드디어 첫 번째 책이 나왔습니다. 유투브에 컨텐츠를 올린지 오래 되었는데, 그간 많은 일이 있기도 했고 바쁘기도 했고 힘들기도 해서 책이 너무 늦어진 감이 있긴 하지만 이제 시작합니다. 
