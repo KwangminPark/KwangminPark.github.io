@@ -7,7 +7,7 @@ tag:
 - book
 image: https://who4u78.github.io/book1/cover.png
 headerImage: true
-projects: true
+projects: false
 hidden: false 
 description: "My fitst book"
 category: project
