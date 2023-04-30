@@ -1,5 +1,5 @@
 ---
-title: "통알못을 위한 기초통계 1권"
+title: "My first book has been published!!!"
 layout: post
 date: 2023-04-30 12:10
 tag: 
