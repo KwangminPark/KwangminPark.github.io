@@ -6,8 +6,8 @@ tag:
 - statistics
 - book
 image: https://who4u78.github.io/book1/cover.png
-headerImage: true
-projects: false
+headerImage: false
+projects: true
 hidden: false 
 description: "My fitst book"
 category: project
