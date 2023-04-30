@@ -8,7 +8,7 @@ tag:
 image: https://who4u78.github.io/book1/cover.png
 headerImage: false
 description: "My fitst book"
-category: project
+category: blog
 author: Kwangmin Park
 ---
 
